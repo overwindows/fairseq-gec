@@ -5,7 +5,7 @@ Source code for the paper:
 Authors: Wei Zhao, Liang Wang, Kewei Shen, Ruoyu Jia, Jingming Liu
 Arxiv url: https://arxiv.org/abs/1903.00138
 Comments: Accepted by NAACL 2019 (oral)
-![](arch.jpg)
+![](arch.jpg){:height="50%" width="50%"}
 
 ## Dependecies
 - PyTorch version >= 1.0.0
